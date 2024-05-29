@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Fiction Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": " Non-Fiction Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Sports Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Self-Help Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 11,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": "Learning French",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 5.5,
+        "category": "French",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "name": "Food Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 8,
+        "name": "Nature Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 7,
+        "category": "Nature",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 9,
+        "name": "Comic Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 13,
+        "category": "Comics",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 10,
+        "name": "Phsychology Books",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 15,
+        "category": "Physchological",
+        "image": "https://images.pexels.com/photos/4218583/pexels-photo-4218583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
